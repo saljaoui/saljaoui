@@ -7,7 +7,6 @@
 - Building personal projects to sharpen my skills.
 
 #### 🔗 Connect with Me
-You can reach out or connect with me through these platforms:
 - [Instagram](your_instagram_link)
 - [LinkedIn](https://www.linkedin.com/in/soufian-aljaoui-2004saljaoui/)
 
