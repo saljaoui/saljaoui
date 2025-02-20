@@ -1,4 +1,4 @@
-<h1><b>Hi there, I'm </b><a href="https://github.com/simoz404">Soufian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/saljaoui">Soufian</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 ### 📚 Learning Journey
 - Started learning coding in 2024.
