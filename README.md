@@ -7,7 +7,7 @@
 - Building personal projects to sharpen my skills.
 
 #### 🔗 Connect with Me
-- [Instagram](your_instagram_link)
+- [Instagram](https://www.instagram.com/soufian.alj)
 - [LinkedIn](https://www.linkedin.com/in/soufian-aljaoui-2004saljaoui/)
 
 # 💻 Tech Stack:
