@@ -2,7 +2,7 @@
 
 ### 📚 Learning Journey
 - Started learning coding in 2024.
-- Working with **Golang**, **JavaScript**, **HTML/CSS**, and **Next.js**.
+- Working with **Golang**, **JavaScript**, **HTML/CSS**, **Next.js**, **Rust**, **Java**, **Spring Boot**, **Vite**, **Angular**, and **Bootstrap**.
 - Passionate about **Back-End** and **Front-End** development.
 - Building personal projects to sharpen my skills.
 
