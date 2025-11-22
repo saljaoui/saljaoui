@@ -10,6 +10,7 @@
 ---
 
 👨‍💻 I’m a Full-Stack Developer building fast, scalable, and user-friendly web apps.
+<pr>
 🔭 Currently job hunting and open to remote / hybrid roles — especially opportunities that value clean code and product impact.
 
 ## 🛠 &nbsp;Tech Stack
